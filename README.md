@@ -2,8 +2,9 @@
 
 ### About me
 
-I'm a Ph.D. student at State Key Lab. of CS, ISCAS, advised by [Zhilin Wu](http://lcs.ios.ac.cn/~wuzl).
+I'm a Ph.D. student at the State Key Lab. of CS, ISCAS.
 
+Supervisor : [Zhilin Wu](http://lcs.ios.ac.cn/~wuzl).
 
 ### Research Interests
 - Separation Logic
