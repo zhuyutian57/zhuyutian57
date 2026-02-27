@@ -10,5 +10,5 @@ Supervisor : [Zhilin Wu](http://lcs.ios.ac.cn/~wuzl).
 - Separation Logic
 - Memory safety analysis(based on model checking) on C and Rust
 - Program verification and analysis
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuyutian57&show=reviews)
+- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuyutian57)](https://github.com/anuraghazra/github-readme-stats)
